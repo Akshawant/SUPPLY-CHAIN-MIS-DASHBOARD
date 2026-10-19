@@ -1,0 +1,55 @@
+Smart Supply Chain MIS Dashboard
+
+Project Overview
+
+An Excel-based Supply Chain Management Information System designed to monitor and analyze supply chain operations using dashboards, automated KPI calculations, and MIS reports.
+
+Workbook Contents
+
+* Executive Summary Dashboard
+* Inventory Dashboard
+* Order Management Dashboard
+* Supplier Performance Dashboard
+* Product Performance Dashboard
+* Order Tracking
+* Inventory Management
+* Supplier Database
+* Product Master
+* Purchase Management
+* Daily MIS Report
+* Weekly & Monthly MIS Reports
+
+Key Features
+
+* Order and purchase order tracking
+* Inventory and stock monitoring
+* Supplier performance analysis
+* Product performance reporting
+* KPI calculations and lookup formulas
+* Charts and conditional formatting
+* Data validation
+* Daily, weekly, and monthly MIS reporting
+
+Tools & Technologies
+
+* Microsoft Excel
+* Excel Formulas and Lookup Functions
+* Data Analysis
+* Dashboard Design
+* Supply Chain Analytics
+
+Dataset
+
+The workbook uses fictional sample business data for demonstration and portfolio purposes.
+
+How to Use
+
+1. Open SmartSupply_Chain_MIS_Dashboard.xlsx in Microsoft Excel.
+2. Explore the dashboard worksheets.
+3. Review the data in the respective worksheets.
+4. Update sample records to explore the reports.
+5. Allow Excel to recalculate formulas when prompted.
+
+Project Objective
+
+This project demonstrates practical Excel skills for MIS Executive, MIS Analyst, Operations Executive, and Data Management roles.
